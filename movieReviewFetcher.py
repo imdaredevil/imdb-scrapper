@@ -34,7 +34,7 @@ def getMovieReviews(movie):
     driver.get(f.url)
     reviewDicts = []
     alreadyHappened = False
-    for i in range(50):
+    for i in range(100):
         try:
             nextB = driver.find_element_by_class_name('ipl-load-more__button')
             nextB.click()
@@ -71,7 +71,7 @@ def getMovieReviews(movie):
             reviewDicts.append(reviewDict)
         else:
             improperCount += 1
-    if improperCount>250 or (totalReviews - len(reviewDicts) - improperCount > 100 and totalReviews < 1250):
+    if improperCount>250 or (totalReviews - len(reviewDicts) - improperCount > 100 and totalReviews < 2500):
         print(totalReviews)
         print(improperCount)
         print(len(reviewDicts))
