@@ -1,6 +1,7 @@
 import csv
 import movieReviewFetcher
 import traceback 
+import sys
 
 def readFile(filename):
     movies = []
@@ -24,7 +25,7 @@ def writeFile(filename, reviews):
 def main(st, en):
     movies = readFile('./dataset/movies2.csv')
     for i,movie in enumerate(movies[st:en]):
-        if i%50 == 49:
+        if i%10 == 9:
             print('{0} movies out of {1} done'.format(i+1, en - st))        
         try:
             reviews = movieReviewFetcher.getMovieReviews(movie)
@@ -43,4 +44,9 @@ def main(st, en):
             movieReviewFetcher.writeLog(movie,'./dataset/toBeRepeated.csv', str(e))
     
 if __name__ == '__main__':
-    main(50,200)
+    if len(sys.argv) == 3:
+        st = int(sys.argv[-2])
+        en = int(sys.argv[-1])
+        main(st,en)
+    else:
+        print('The format is python <filename> <start> <end>')
