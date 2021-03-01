@@ -1,0 +1,137 @@
+,movieId,title,error,error1019,"20,000 Leagues Under the Sea (1954)","movie count mismatch
+totalReviews: 147, noRatingCount: 3, fetchedCount: 22"
+0,1,Toy Story (1995),"movie count mismatch
+totalReviews: 646, noRatingCount: 31, fetchedCount: 312",,,
+1,105,"Bridges of Madison County, The (1995)","movie count mismatch
+totalReviews: 255, noRatingCount: 12, fetchedCount: 62",,,
+2,110,Braveheart (1995),"movie count mismatch
+totalReviews: 1301, noRatingCount: 8, fetchedCount: 117",,,
+3,6,Heat (1995),"movie count mismatch
+totalReviews: 1125, noRatingCount: 12, fetchedCount: 87",,,
+4,17,Sense and Sensibility (1995),"movie count mismatch
+totalReviews: 250, noRatingCount: 17, fetchedCount: 83",,,
+5,70,From Dusk Till Dawn (1996),"movie count mismatch
+totalReviews: 676, noRatingCount: 33, fetchedCount: 188",,,
+6,247,Heavenly Creatures (1994),"movie count mismatch
+totalReviews: 282, noRatingCount: 4, fetchedCount: 21",,,
+7,266,Legends of the Fall (1994),"movie count mismatch
+totalReviews: 424, noRatingCount: 2, fetchedCount: 23",,,
+8,273,Mary Shelley's Frankenstein (1994),"movie count mismatch
+totalReviews: 282, noRatingCount: 6, fetchedCount: 44",,,
+9,290,Once Were Warriors (1994),"movie count mismatch
+totalReviews: 308, noRatingCount: 20, fetchedCount: 126",,,
+10,293,"Professional, The (a.k.a. Leon: The Professional) (1994)","movie count mismatch
+totalReviews: 1254, noRatingCount: 48, fetchedCount: 350",,,
+11,303,"Quick and the Dead, The (1995)","movie count mismatch
+totalReviews: 269, noRatingCount: 14, fetchedCount: 84",,,
+12,410,Addams Family Values (1993),"movie count mismatch
+totalReviews: 152, noRatingCount: 3, fetchedCount: 22",,,
+13,319,Shallow Grave (1994),"movie count mismatch
+totalReviews: 157, noRatingCount: 2, fetchedCount: 23",,,
+14,412,"Age of Innocence, The (1993)","movie count mismatch
+totalReviews: 191, noRatingCount: 7, fetchedCount: 43",,,
+15,333,Tommy Boy (1995),"movie count mismatch
+totalReviews: 224, noRatingCount: 10, fetchedCount: 39",,,
+16,427,Boxing Helena (1993),"movie count mismatch
+totalReviews: 129, noRatingCount: 4, fetchedCount: 21",,,
+17,428,"Bronx Tale, A (1993)","movie count mismatch
+totalReviews: 230, noRatingCount: 6, fetchedCount: 19",,,
+18,337,What's Eating Gilbert Grape (1993),"movie count mismatch
+totalReviews: 372, noRatingCount: 6, fetchedCount: 19",,,
+19,339,While You Were Sleeping (1995),"movie count mismatch
+totalReviews: 225, noRatingCount: 5, fetchedCount: 20",,,
+20,590,Dances with Wolves (1990),"movie count mismatch
+totalReviews: 489, noRatingCount: 3, fetchedCount: 22",,,
+21,900,"American in Paris, An (1951)","movie count mismatch
+totalReviews: 174, noRatingCount: 3, fetchedCount: 22",,,
+22,714,Dead Man (1995),"movie count mismatch
+totalReviews: 353, noRatingCount: 5, fetchedCount: 45",,,
+23,720,Wallace & Gromit: The Best of Aardman Animation (1996),'NoneType' object has no attribute 'find',,,
+24,924,2001: A Space Odyssey (1968),"movie count mismatch
+totalReviews: 2255, noRatingCount: 343, fetchedCount: 1894",,,
+25,953,It's a Wonderful Life (1946),"movie count mismatch
+totalReviews: 1019, noRatingCount: 111, fetchedCount: 661",,,
+26,2072,"'burbs, The (1989)","movie count mismatch
+totalReviews: 330, noRatingCount: 30, fetchedCount: 193",,,
+27,955,Bringing Up Baby (1938),"movie count mismatch
+totalReviews: 306, noRatingCount: 4, fetchedCount: 21",,,
+28,2329,American History X (1998),"movie count mismatch
+totalReviews: 1616, noRatingCount: 180, fetchedCount: 785",,,
+29,2427,"Thin Red Line, The (1998)","movie count mismatch
+totalReviews: 1520, noRatingCount: 375, fetchedCount: 1130",,,
+0,1027,Robin Hood: Prince of Thieves (1991),,"movie count mismatch
+totalReviews: 367, noRatingCount: 49, fetchedCount: 175",,
+1,1543,"Designated Mourner, The (1997)",,'NoneType' object has no attribute 'find',,
+2,1032,Alice in Wonderland (1951),,'NoneType' object has no attribute 'find',,
+3,1111,Microcosmos (Microcosmos: Le peuple de l'herbe) (1996),,'NoneType' object has no attribute 'find',,
+4,1112,Palookaville (1996),,'NoneType' object has no attribute 'find',,
+5,1624,"Thousand Acres, A (1997)",,'NoneType' object has no attribute 'find',,
+6,1625,"Game, The (1997)",,'NoneType' object has no attribute 'find',,
+7,1113,"Associate, The (1996)",,'NoneType' object has no attribute 'find',,
+8,1555,"To Have, or Not (1995)",,'NoneType' object has no attribute 'find',,
+9,1676,Starship Troopers (1997),,"movie count mismatch
+totalReviews: 1162, noRatingCount: 311, fetchedCount: 842",,
+10,1721,Titanic (1997),,"movie count mismatch
+totalReviews: 2966, noRatingCount: 492, fetchedCount: 2000",,
+11,1205,"Transformers: The Movie, The (1986)",,"movie count mismatch
+totalReviews: 355, noRatingCount: 2, fetchedCount: 23",,
+12,1206,"Clockwork Orange, A (1971)",,"movie count mismatch
+totalReviews: 1612, noRatingCount: 251, fetchedCount: 1348",,
+13,1209,Once Upon a Time in the West (1969),,"movie count mismatch
+totalReviews: 741, noRatingCount: 4, fetchedCount: 21",,
+14,1222,Full Metal Jacket (1987),,"movie count mismatch
+totalReviews: 877, noRatingCount: 128, fetchedCount: 567",,
+15,1234,"Sting, The (1973)",,"movie count mismatch
+totalReviews: 325, noRatingCount: 3, fetchedCount: 22",,
+16,1247,"Graduate, The (1967)",,"movie count mismatch
+totalReviews: 767, noRatingCount: 95, fetchedCount: 476",,
+17,1917,Armageddon (1998),,"movie count mismatch
+totalReviews: 1256, noRatingCount: 39, fetchedCount: 209",,
+18,1255,Bad Taste (1987),,"movie count mismatch
+totalReviews: 307, noRatingCount: 3, fetchedCount: 22",,
+19,1258,"Shining, The (1980)",,"movie count mismatch
+totalReviews: 1944, noRatingCount: 281, fetchedCount: 1648",,
+20,1263,"Deer Hunter, The (1978)",,"movie count mismatch
+totalReviews: 1167, noRatingCount: 271, fetchedCount: 887",,
+21,1265,Groundhog Day (1993),,"movie count mismatch
+totalReviews: 816, noRatingCount: 57, fetchedCount: 466",,
+22,1983,Halloween II (1981),,"movie count mismatch
+totalReviews: 587, noRatingCount: 4, fetchedCount: 71",,
+23,1993,Child's Play 3 (1992),,"movie count mismatch
+totalReviews: 183, noRatingCount: 7, fetchedCount: 42",,
+24,1997,"Exorcist, The (1973)",,"movie count mismatch
+totalReviews: 1280, noRatingCount: 281, fetchedCount: 988",,
+25,1374,Star Trek: The Wrath of Khan (1982),,"movie count mismatch
+totalReviews: 408, noRatingCount: 10, fetchedCount: 65",,
+26,2028,Saving Private Ryan (1998),,"movie count mismatch
+totalReviews: 2665, noRatingCount: 528, fetchedCount: 1965",,
+27,1387,Jaws (1975),,"movie count mismatch
+totalReviews: 1263, noRatingCount: 8, fetchedCount: 92",,
+28,1388,Jaws 2 (1978),,"movie count mismatch
+totalReviews: 333, noRatingCount: 6, fetchedCount: 68",,
+29,1391,Mars Attacks! (1996),,"movie count mismatch
+totalReviews: 459, noRatingCount: 3, fetchedCount: 22",,
+30,1407,Scream (1996),,"movie count mismatch
+totalReviews: 1029, noRatingCount: 175, fetchedCount: 662",,
+31,1408,"Last of the Mohicans, The (1992)",,"movie count mismatch
+totalReviews: 468, noRatingCount: 33, fetchedCount: 192",,
+32,1411,Hamlet (1996),,"movie count mismatch
+totalReviews: 261, noRatingCount: 27, fetchedCount: 97",,
+33,1438,Dante's Peak (1997),,"movie count mismatch
+totalReviews: 324, noRatingCount: 4, fetchedCount: 45",,
+34,1449,Waiting for Guffman (1996),,"movie count mismatch
+totalReviews: 208, noRatingCount: 4, fetchedCount: 21",,
+35,1459,Absolute Power (1997),,"movie count mismatch
+totalReviews: 170, noRatingCount: 9, fetchedCount: 41",,
+36,1464,Lost Highway (1997),,"movie count mismatch
+totalReviews: 508, noRatingCount: 48, fetchedCount: 173",,
+37,1483,Crash (1996),,"movie count mismatch
+totalReviews: 310, noRatingCount: 25, fetchedCount: 99",,
+38,1513,Romy and Michele's High School Reunion (1997),,"movie count mismatch
+totalReviews: 186, noRatingCount: 11, fetchedCount: 39",,
+39,1517,Austin Powers: International Man of Mystery (1997),,"movie count mismatch
+totalReviews: 459, noRatingCount: 17, fetchedCount: 105",,
+40,1518,Breakdown (1997),,"movie count mismatch
+totalReviews: 282, noRatingCount: 25, fetchedCount: 99",,
+41,1527,"Fifth Element, The (1997)",,"movie count mismatch
+totalReviews: 882, noRatingCount: 7, fetchedCount: 68",,
